@@ -57,3 +57,7 @@ The test script will:
 ### Correct Results File (correct\*.txt)
 
 - "Accept" or "Reject" for each corresponding input string
+
+## Acknowledgments
+
+Professor John Glick wrote all test scripts.
